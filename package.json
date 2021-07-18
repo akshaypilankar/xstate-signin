@@ -2,7 +2,13 @@
   "name": "react-xstate-sign-in-form",
   "version": "1.0.0",
   "description": "A sign in form example using React & XState interpreter react-xstate-js",
-  "keywords": ["form", "react-xstate-js", "sign in", "xstate", "react"],
+  "keywords": [
+    "form",
+    "react-xstate-js",
+    "sign in",
+    "xstate",
+    "react"
+  ],
   "main": "src/index.jsx",
   "dependencies": {
     "react": "16.5.2",
@@ -20,5 +26,10 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
